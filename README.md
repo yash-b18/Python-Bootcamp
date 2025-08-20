@@ -11,6 +11,6 @@ This repository contains all of Week 5 Python BootCamp Challenges
 
 ### Day 1 Challenge Instructions
 
-Under day1Challenge folder, there is a python file called weather_app.py. This file takes a city as paramater. If a city name has spaces, please use quotations. <br>
+Under day1Challenge folder, there is a python file called weather_app.py. This file takes a city as paramater. If a city name has spaces, please use quotations. <br><br>
 Example way to run python file: <br>
 python weather_app.py "New York"
