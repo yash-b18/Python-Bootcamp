@@ -13,12 +13,12 @@ This repository contains all of Week 5 Python BootCamp Challenges
 
 Under day1Challenge folder, there is a python file called weather_app.py. This file takes a city as paramater. If a city name has spaces, please use quotations. <br><br>
 Example way to run python file: <br>
-python weather_app.py "New York"
+`python weather_app.py` "New York"
 
 ### Day 2 Challenge Instructions
 
-Under day2Challenge folder, there is a pythol file called streamlit_app.py. Run file in your virtual environment with the following command: <br>
+Under day2Challenge folder, there is a pythol file called streamlit_app.py. <br>Run file in your virtual environment with the following command: <br>
 `streamlit run streamlit_app.py` <br><br>
 
-A browser window will display. User input can be given on the sidebar. Weather of any city can be checked with up to 5 days of temperature forecast. <br>
+A browser window will display. User input can be given on the sidebar. Weather of any city can be checked with up to 5 days of temperature forecast. <br><br>
 <b>Note:</b> Make sure to install dependencies from `requirements.txt` file
