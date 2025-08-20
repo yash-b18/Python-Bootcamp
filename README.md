@@ -6,7 +6,7 @@ This repository contains all of Week 5 Python BootCamp Challenges
 
 1. Create a python virtual environment
 2. Activate the environment
-3. Install all dependencies in the requirements.txt file
+3. Install all dependencies in the `requirements.txt` file
 4. Create a `.env` file with your api keys
 
 ### Day 1 Challenge Instructions
